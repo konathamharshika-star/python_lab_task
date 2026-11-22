@@ -1,0 +1,7 @@
+code:
+a = [10, 20, 30, 40, 50]
+
+print("10 in a:", 10 in a)
+print("60 in a:", 60 in a)
+print("20 not in a:", 20 not in a)
+print("70 not in a:", 70 not in a)
